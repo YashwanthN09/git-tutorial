@@ -1,0 +1,1 @@
+otg suspend and wakeup test -> pass
